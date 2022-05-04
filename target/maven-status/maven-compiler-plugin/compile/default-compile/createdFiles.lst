@@ -1,0 +1,6 @@
+net\tickets\springboot\SpringbootThymeleafCrudWebAppApplication.class
+net\tickets\springboot\repository\TicketsRepository.class
+net\tickets\springboot\service\TicketServiceImpl.class
+net\tickets\springboot\controller\TicketsController.class
+net\tickets\springboot\service\TicketService.class
+net\tickets\springboot\model\Ticket.class
